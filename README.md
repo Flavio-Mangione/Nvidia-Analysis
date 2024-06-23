@@ -9,14 +9,10 @@ This repository contains a comprehensive analysis of data related to investments
    - Analysis of the growth in AI investments over the past decade.
    - Examination of job market trends.
 
-2. **Financial Analysis of Nvidia**:
-   - Detailed evaluation of Nvidia's financial performance, including revenue, profit margins, and market share.
-   - Examination of key financial ratios and metrics to assess Nvidia's financial health and growth prospects.
+2. **Financial Analysis of Nvidia**
 
 3. **Comparison with AMD**:
    - Comparative analysis of Nvidia and AMD's financial performance.
-   - Evaluation of market strategies, product innovations, and competitive positioning of both companies.
-   - Insights into future trends and potential challenges in the AI hardware market.
 
 This analysis aims to provide valuable insights for investors, industry professionals, and enthusiasts interested in understanding the dynamics of AI investments, job market trends, and the financial health of leading companies in the AI sector.
 
@@ -29,13 +25,9 @@ Questo repository contiene un'analisi approfondita dei dati relativi agli invest
    - Analisi della crescita degli investimenti in IA nell'ultimo decennio.
    - Esame delle tendenze del mercato del lavoro.
 
-2. **Analisi Finanziaria di Nvidia**:
-   - Valutazione dettagliata delle performance finanziarie di Nvidia, inclusi ricavi, margini di profitto e quota di mercato.
-   - Esame dei principali indicatori e metriche finanziarie per valutare la salute finanziaria e le prospettive di crescita di Nvidia.
-
+2. **Analisi Finanziaria di Nvidia**
+     
 3. **Confronto con AMD**:
    - Analisi comparativa delle performance finanziarie di Nvidia e AMD.
-   - Valutazione delle strategie di mercato, innovazioni di prodotto e posizionamento competitivo di entrambe le aziende.
-   - Approfondimenti sulle tendenze future e le potenziali sfide nel mercato dell'hardware IA.
 
 Questa analisi mira a fornire approfondimenti preziosi per investitori, professionisti del settore e appassionati interessati a comprendere le dinamiche degli investimenti in IA, le tendenze del mercato del lavoro e la salute finanziaria delle principali aziende nel settore IA.
