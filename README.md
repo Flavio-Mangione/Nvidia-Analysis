@@ -1,6 +1,6 @@
 # AI Investments and Job Market Analysis (2013-2023) & Financial Analysis of Nvidia vs AMD
 
-![Nvidia](https://www.marketbeat.com/logos/nvidia-co-logo.jpg)
+![Nvidia](https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/02-nvidia-logo-color-grn-500x200-4c25-p@2x.png)
 ## English Description
 
 This repository contains a comprehensive analysis of data related to investments in Artificial Intelligence (AI) and job market trends from 2013 to 2023. Additionally, it includes a detailed financial analysis of Nvidia, one of the leading companies in the AI industry, and compares its financial performance with its major competitor, AMD.
